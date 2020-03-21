@@ -3,4 +3,6 @@
 ## user guide
   this is very good sample for user to create a new app very quickly
 ## how to start
-  select create an app from the template test
+  select create an app from the template test test
+
+
